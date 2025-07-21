@@ -1,0 +1,4 @@
+build/
+
+*.qmlls.ini
+*.clang*
